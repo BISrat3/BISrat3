@@ -1,4 +1,3 @@
-Bisrat Amtataw/README.md
 ### Hi there, I'm Bisrat Amtataw 👋
 <hr>
 
