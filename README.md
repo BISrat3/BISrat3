@@ -7,7 +7,8 @@
 <img width="66" alt="Screen Shot 2022-07-10 at 9 18 36 PM" src="https://user-images.githubusercontent.com/99110345/178171664-85562968-245c-4ee6-b7d7-b35cfb2b6f17.png"></a>
 
 ## Technologies used 
-<img width="675" alt="Screen Shot 2022-07-10 at 9 28 24 PM" src="https://user-images.githubusercontent.com/99110345/178172160-3bc7c29a-4f4b-4d00-9636-1b65ed31234c.png">
+<img width="66" height="66" display="inline" alt="firebase" src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" >
+<img width="600" alt="Screen Shot 2022-07-10 at 9 28 24 PM" src="https://user-images.githubusercontent.com/99110345/178172160-3bc7c29a-4f4b-4d00-9636-1b65ed31234c.png">
 
 
 
