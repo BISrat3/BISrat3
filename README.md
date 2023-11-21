@@ -1,4 +1,4 @@
-### Hi there, I'm Bisrat Amtataw 👋
+### Hi there, I love coding 👋
 <hr>
 
 ## Other Profile
